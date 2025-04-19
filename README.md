@@ -32,7 +32,7 @@ This project demonstrates how to deploy a **Node.js application** using **Docker
 - Configured **CloudWatch Logs** to capture security-related events.
 
 ### 🔗 **Links:**
-- GitHub Repository: *([](https://github.com/Srichandan1998/node-aws-app.git)]
+- GitHub Repository: https://github.com/Srichandan1998/node-aws-app.git
 
 ### 📸 **Architecture Diagram:**
 - Attached below is the visual architecture of the deployment setup:
