@@ -36,4 +36,4 @@ This project demonstrates how to deploy a **Node.js application** using **Docker
 
 ### 📸 **Architecture Diagram:**
 - Attached below is the visual architecture of the deployment setup:
-  ![Architecture Diagram](images/architecture.png)
+  ![Architecture Diagram](architecture.png)
